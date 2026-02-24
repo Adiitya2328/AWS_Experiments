@@ -1,6 +1,6 @@
 # AWS Cloud Practitioner Level Experiments
 
-This repository contains a collection of **AWS hands-on experiments** performed at the **Cloud Practitioner** level. The goal of these exercises is to demonstrate practical knowledge and skills in core AWS services, security, storage, networking, and cost management.
+This repository contains a collection of **AWS hands-on experiments** performed at the **Cloud Practitioner** level. The goal of these exercises is to demonstrate practical knowledge and skills in  AWS services, security, storage, networking, and cost management.
 
 ## Table of Contents
 
